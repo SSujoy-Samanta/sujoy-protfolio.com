@@ -1168,6 +1168,10 @@ section{
 
 }
 @media screen and (max-width:470px){
+    body{
+        margin: -5px;
+        padding: 0px;
+    }
     .box {
         width: 18vw;
         height: 3rem;
